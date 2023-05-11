@@ -1,0 +1,51 @@
+[
+    {
+        "id" : "red",
+        "red" : 1.0,
+        "green" : 0.0,
+        "blue" : 0.0,
+        "link" : "https://en.wikipedia.org/wiki/Red"
+    },
+    {
+       "id" : "green",
+       "red" : 0.0,
+       "green" : 1.0,
+       "blue" : 0.0,
+       "link" : "https://en.wikipedia.org/wiki/Green"
+    },
+    {
+       "id" : "blue",
+       "red" : 0.0,
+       "green" : 0.0,
+       "blue" : 1.0,
+       "link" : "https://en.wikipedia.org/wiki/Blue"
+    },
+    {
+       "id" : "yellow",
+       "red" : 1.0,
+       "green" : 1.0,
+       "blue" : 0.0,
+       "link" : "https://en.wikipedia.org/wiki/Yellow"
+    },
+    {
+       "id" : "black",
+       "red" : 0.0,
+       "green" : 0.0,
+       "blue" : 0.0,
+       "link" : "https://en.wikipedia.org/wiki/Black"
+    },
+    {
+       "id" : "cyan",
+       "red" : 0.0,
+       "green" : 1.0,
+       "blue" : 1.0,
+       "link" : "https://en.wikipedia.org/wiki/Cyan"
+    },
+    {
+       "id" : "white",
+       "red" : 1.0,
+       "green" : 1.0,
+       "blue" : 1.0,
+       "link" : "https://en.wikipedia.org/wiki/White"
+    }
+]

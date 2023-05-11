@@ -1,0 +1,42 @@
+[
+{
+    "id" : "star",
+    "name" : "star"
+},
+{
+    "id" : "circle",
+    "name" : "circle"
+},
+{
+    "id" : "square",
+    "name" : "square"
+},
+{
+    "id" : "triangle",
+    "name" : "triangle"
+},
+{
+    "id" : "octagon",
+    "name" : "octagon"
+},
+{
+    "id" : "hexagon",
+    "name" : "bestagon"
+},
+{
+    "id" : "arrow.backward",
+    "name" : "left arrow"
+},
+{
+    "id" : "arrow.forward",
+    "name" : "right arrow"
+},
+{
+    "id" : "arrow.down",
+    "name" : "down arrow"
+},
+{
+    "id" : "arrow.up",
+    "name" : "up arrow"
+},
+]
